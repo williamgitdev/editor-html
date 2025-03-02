@@ -7,6 +7,7 @@ C:\Users\willi\OneDrive\Documentos\GitHub\editor-html\editor-html\obj\Debug\net9
 C:\Users\willi\OneDrive\Documentos\GitHub\editor-html\editor-html\obj\Debug\net9.0\editor-html.AssemblyInfoInputs.cache
 C:\Users\willi\OneDrive\Documentos\GitHub\editor-html\editor-html\obj\Debug\net9.0\editor-html.AssemblyInfo.cs
 C:\Users\willi\OneDrive\Documentos\GitHub\editor-html\editor-html\obj\Debug\net9.0\editor-html.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive\Documentos\GitHub\editor-html\editor-html\obj\Debug\net9.0\editor-html.sourcelink.json
 C:\Users\willi\OneDrive\Documentos\GitHub\editor-html\editor-html\obj\Debug\net9.0\editor-html.dll
 C:\Users\willi\OneDrive\Documentos\GitHub\editor-html\editor-html\obj\Debug\net9.0\refint\editor-html.dll
 C:\Users\willi\OneDrive\Documentos\GitHub\editor-html\editor-html\obj\Debug\net9.0\editor-html.pdb
